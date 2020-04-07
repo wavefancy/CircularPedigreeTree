@@ -4,4 +4,6 @@ Please refer to `UMOD_PAPER/bash.sh` for how to replicate the figures in our pap
 
 If you find this script helpful for your work, please cite our work.
 
+Chun J*, Wang M*, Wilkins MS, Knob AU, Benjamin A, Bu L, Pollak MR: Autosomal Dominant Tubulointerstitial Kidney Disease–Uromodulin Misclassified as Focal Segmental Glomerulosclerosis or Hereditary Glomerular Disease. Kidney Int. Reports [Internet] 1–11, 2020 Available from: https://doi.org/10.1016/j.ekir.2019.12.016
+
 <img src="./fgit.png" width="500" title="">
